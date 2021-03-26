@@ -1,0 +1,24 @@
+.navbar{
+background-color: black;
+margin-left: 2cm;
+margin-right: 2cm;
+padding: 0.5cm;
+}
+h1{
+    color: coral;
+    font-family: cursive;
+    width: 1000px;
+    text-align: center;
+}
+body{
+    background: rgb(238, 234, 217);
+}
+.form-control{
+    color: red;
+    background-color: rgb(188, 202, 180);
+    text-align: center;
+    margin-right: 2cm;
+    margin-top: 0.5cm;
+    margin-bottom: 0.5cm;
+    margin-left: 2cm;
+}
